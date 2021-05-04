@@ -100,6 +100,7 @@ vault read aws/creds/my-role
 
 * [Vault Tutorials - HashiCorp Learn](https://learn.hashicorp.com/vault)
 * [Getting Started | Vault - HashiCorp Learn](https://learn.hashicorp.com/collections/vault/getting-started)
+* [HTTP API: Libraries | Vault by HashiCorp](https://www.vaultproject.io/api/libraries)
 * [AWS - Auth Methods | Vault by HashiCorp](https://www.vaultproject.io/docs/auth/aws)
 * [hashicorp/vault-lambda-extension](https://github.com/hashicorp/vault-lambda-extension) - utilizes the AWS Lambda Extensions API to help your Lambda function read secrets from your Vault deployment
 * [https://registry.terraform.io/modules/hashicorp/vault/aws/latest/examples/vault-iam-auth](https://registry.terraform.io/modules/hashicorp/vault/aws/latest/examples/vault-iam-auth)
